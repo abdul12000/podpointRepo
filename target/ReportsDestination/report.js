@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 19620004200,
+  "duration": 9088305600,
   "status": "passed"
 });
 formatter.scenario({
@@ -102,7 +102,7 @@ formatter.match({
   "location": "PodPointPurchaseSteps.i_am_on_the_Url(String)"
 });
 formatter.result({
-  "duration": 13118069900,
+  "duration": 3614335200,
   "status": "passed"
 });
 formatter.match({
@@ -119,7 +119,7 @@ formatter.match({
   "location": "PodPointPurchaseSteps.i_select_and_in_the_Select_your_car_fields(String,String)"
 });
 formatter.result({
-  "duration": 2392216400,
+  "duration": 1007660500,
   "status": "passed"
 });
 formatter.match({
@@ -132,7 +132,7 @@ formatter.match({
   "location": "PodPointPurchaseSteps.i_check_the_box(String)"
 });
 formatter.result({
-  "duration": 5150835300,
+  "duration": 5107877800,
   "status": "passed"
 });
 formatter.match({
@@ -145,7 +145,7 @@ formatter.match({
   "location": "PodPointPurchaseSteps.i_select_option_connection_type(String)"
 });
 formatter.result({
-  "duration": 4216176900,
+  "duration": 4154000600,
   "status": "passed"
 });
 formatter.match({
@@ -158,7 +158,7 @@ formatter.match({
   "location": "PodPointPurchaseSteps.thePricesForTheKWPowerRatingContainsTheFollowing(int,DataTable)"
 });
 formatter.result({
-  "duration": 3468271300,
+  "duration": 3128404000,
   "status": "passed"
 });
 formatter.match({
@@ -171,7 +171,7 @@ formatter.match({
   "location": "PodPointPurchaseSteps.iClickOnThePowerRating(String)"
 });
 formatter.result({
-  "duration": 133691400,
+  "duration": 188013700,
   "status": "passed"
 });
 formatter.match({
@@ -184,31 +184,9 @@ formatter.match({
   "location": "PodPointPurchaseSteps.compatible_extras_are_shown(int)"
 });
 formatter.result({
-  "duration": 4017628900,
+  "duration": 4025327200,
   "status": "passed"
 });
 formatter.match({
   "location": "PodPointPurchaseSteps.i_choose_the_first_compartible_extra()"
-});
-formatter.result({
-  "duration": 190233800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "7",
-      "offset": 34
-    }
-  ],
-  "location": "PodPointPurchaseSteps.the_Total_price_correctly_matches_kw_unit_price_plus_the_compartible_extra_price(int)"
-});
-formatter.result({
-  "duration": 4037285200,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1833605600,
-  "status": "passed"
-});
 });
